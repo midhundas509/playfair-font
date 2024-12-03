@@ -1,0 +1,66 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "5702FADE11E1F43091F312EF2E7862FFAD86F6C2B8AB8353F08DA6FFF41013EB",
+      "size": 2738
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "612A6102AB638F5B12B79D471070D021B1F982F468F5B66B298AEE70E28EC1C9",
+      "size": 6363
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "885320C7406FBB691713AAEFE8679E597211465835452CB4A9621267DD8ADCE2",
+      "size": 2166
+    },
+    "static/Playfair-Display-400-900-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-400-900-italic-cyrillic.woff2",
+      "checksum": "0432583B1050BF12B8B7BDA7C51205E174E906CA0C862ADAE09AD5B04A3E0FFF",
+      "size": 23220
+    },
+    "static/Playfair-Display-400-900-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-400-900-italic-latin-ext.woff2",
+      "checksum": "7451B34DD6608FF47F15B53DC5722A4259E65E1BDC2C95C7C2E426DF353A4712",
+      "size": 23080
+    },
+    "static/Playfair-Display-400-900-italic-latin.woff2": {
+      "name": "static/Playfair-Display-400-900-italic-latin.woff2",
+      "checksum": "89F75FEBFD1BE53D2B7186E4A5FE27716E4C2D7814400BB108DE6FA5C01E5610",
+      "size": 38748
+    },
+    "static/Playfair-Display-400-900-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-400-900-italic-vietnamese.woff2",
+      "checksum": "6636AD00D497C20D17E2AD9EB0D39E4435A9DC43293759E9D26E6B1615F6EA20",
+      "size": 9492
+    },
+    "static/Playfair-Display-400-900-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-400-900-normal-cyrillic.woff2",
+      "checksum": "4D54971919EDEEF730D7AAB09713EF7CFC1B163B4AFA998458DBC820D243E9E5",
+      "size": 21188
+    },
+    "static/Playfair-Display-400-900-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-400-900-normal-latin-ext.woff2",
+      "checksum": "849B78A43F2BCD65DB0F10B8475AE8CBE44E63100F09E5A6D764EDC56551DC90",
+      "size": 20316
+    },
+    "static/Playfair-Display-400-900-normal-latin.woff2": {
+      "name": "static/Playfair-Display-400-900-normal-latin.woff2",
+      "checksum": "CB8CAC32D5CEF83E7674916378C2F47BDBBA7E6E6BD936F8026A58AC4E71FA53",
+      "size": 38372
+    },
+    "static/Playfair-Display-400-900-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-400-900-normal-vietnamese.woff2",
+      "checksum": "42BAB5302BDDCDEA0C935A02D94F18FF4B84595D42995D3D1F472C6CB69AE5D1",
+      "size": 8844
+    }
+  },
+  "zip_url": "https://codeload.github.com/midhundas509/playfair-font/zip/refs/heads/main",
+  "checksum": "C468308D15EB2877D30418DE111CC88711FF4DD61E2181F5128A9ADD9CE0C4E0"
+}
